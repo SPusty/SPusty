@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Senjuti 👋 </h1>
 
 <p align="center">
-  <b>Data Analyst | PL-300 Certified | Python | Power BI | SQL | Excel</b>
+  <b>Data Analyst | PL-300 Certified | Power BI | SQL | Python | Excel</b>
 </p>
 
 ## About Me
