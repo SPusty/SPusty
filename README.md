@@ -42,9 +42,10 @@ I enjoy:
 - KPI Tracking & Insight
 
 ### 🔹Collaboration Tool
-- Email
+- GitHub
 - JIRA
 - Confluence
+- Email
 
 ### 🔹Delivery Model
 - Agile
