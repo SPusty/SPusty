@@ -97,7 +97,7 @@ TCS, UK | Oct 2022 – Oct 2026
 
 ## ⭐ Featured Projects
 
-### 🔹 Credit Fraud Trends & Credit Score Analysis
+🔹 **[Credit Scoring & Risk Analysis] (https://github.com/SPusty/CSRA)**
 A data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores.
 
 Tools: Python, SQL
