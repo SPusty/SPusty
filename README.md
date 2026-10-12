@@ -100,7 +100,7 @@ TCS, UK | Oct 2022 – Oct 2026
 ### 🔹 Credit Fraud Trends & Credit Score Analysis
 A data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores.
 
-Tools: Python, SQL, Power BI
+Tools: Python, SQL
 
 ### 🔹 Skill Demand Data Analysis
 An interactive business intelligence dashboard focused on skill demand trends, salary benchmarking, and prescriptive analytics for enterprise decision-making.
