@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an aspiring Data Analyst, with hands-on experience in data validation, data modelling, data visualization, KPI tracking, and dashboard development.
+I am a Data Analyst, with hands-on experience in data validation, data modelling, data visualization, KPI tracking, and dashboard development.
 Have worked as Data Quality Analyst in Tata Consultancy Services,UK and currently interning as Data Analyst at Fortray Global Services.
 
 I enjoy:
