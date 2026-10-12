@@ -98,19 +98,17 @@ TCS, UK | Oct 2022 – Oct 2026
 ## ⭐ Featured Projects
 
 🔹 **[Credit Scoring & Risk Analysis](https://github.com/SPusty/CSRA)**
-A data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores.
 
+A data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores.
 Tools: Python, SQL
 
 🔹 **[Skill Demand Data Analysis](https://github.com/SPusty/skillDemandAnalysis)**
 
 An interactive business intelligence dashboard focused on skill demand trends, salary benchmarking, and prescriptive analytics for enterprise decision-making.
-
 Tools: Python, SQL, Power BI
 
 ### 🔹 Banking - Vehicle Loan & Risk Analysis
 A project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
-
 Tools: Python, Power BI
 
 ---
