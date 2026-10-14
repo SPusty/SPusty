@@ -19,7 +19,7 @@ I enjoy:
 
 ## 🏆 Achievements
 
-- TCS Gems recognition for exceptional performance
+- TCS Contextual Master and Gems recognition for exceptional performance
 - Optimized SQL queries, reducing extraction time by 30%
 - Improved data accuracy by 25% through profiling and data cleansing
 - Automated reports and dashboards to reduce manual effort
@@ -109,7 +109,7 @@ An interactive business intelligence dashboard focused on skill demand trends, s
 
 Tools: Python, SQL, Power BI
 
-🔹 **[HRInsight](https://github.com/SPusty/HR_Insights)**
+🔹 **[HR_Insight](https://github.com/SPusty/HR_Insights)**
 
 Analysis of employee data, explores salary patterns, department-level performance, and create visual charts.
 
