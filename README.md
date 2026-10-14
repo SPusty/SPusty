@@ -109,6 +109,12 @@ An interactive business intelligence dashboard focused on skill demand trends, s
 
 Tools: Python, SQL, Power BI
 
+🔹 **[HRInsight](https://github.com/SPusty/HR_Insights)**
+
+Analysis of employee data, explores salary patterns, department-level performance, and create visual charts.
+
+Tools: Python
+
 ### 🔹 Banking - Vehicle Loan & Risk Analysis
 A project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
 
