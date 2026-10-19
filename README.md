@@ -117,7 +117,7 @@ Tools: Python(mysql.connector,pandas, matplotlib)
 
 ### 🔹 Banking - Vehicle Loan & Risk Analysis
 
-Currently working:
+In Progress:
 
 Working on a project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
 
