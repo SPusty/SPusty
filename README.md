@@ -121,7 +121,7 @@ Currently working:
 
 Working on a project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
 
-Tools: Python, Power BI
+Tools: Python, PowerBI
 
 ---
 
