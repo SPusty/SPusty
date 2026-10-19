@@ -99,24 +99,27 @@ TCS, UK | Oct 2022 – Oct 2026
 
 🔹 **[Credit Scoring & Risk Analysis](https://github.com/SPusty/CSRA)**
 
-A data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores. 
+Delivered a data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores. 
 
-Tools: Python, SQL
+Tools: Python, SQL, PowerBI
 
 🔹 **[Skill Demand Data Analysis](https://github.com/SPusty/skillDemandAnalysis)**
 
-An interactive business intelligence dashboard focused on skill demand trends, salary bench marking, and prescriptive analytics for enterprise decision-making.
+Developed an interactive business intelligence dashboard focused on skill demand trends, salary bench marking, and prescriptive analytics for enterprise decision-making.
 
-Tools: Python, SQL, Power BI
+Tools: Python, SQL, PowerBI
 
 🔹 **[HR_Insight](https://github.com/SPusty/HR_Insights)**
 
-Analysis of employee data, explores salary patterns, department-level performance, and create visual charts.
+Analyzed employee data for a small business to uncover salary patterns, evaluate department-level metrics, and visualize key HR insights to support workforce decision-making.
 
-Tools: Python
+Tools: Python(mysql.connector,pandas, matplotlib)
 
 ### 🔹 Banking - Vehicle Loan & Risk Analysis
-A project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
+
+Currently working:
+
+Working on a project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
 
 Tools: Python, Power BI
 
