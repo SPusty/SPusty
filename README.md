@@ -111,17 +111,15 @@ Tools: Python, SQL, PowerBI
 
 🔹 **[HR_Insight](https://github.com/SPusty/HR_Insights)**
 
-Analyzed employee data for a small business to uncover salary patterns, evaluate department-level metrics, and visualize key HR insights to support workforce decision-making.
+Analysed employee data for a small business to uncover salary patterns, evaluate department-level metrics, and visualize key HR insights to support workforce decision-making.
 
 Tools: Python(mysql.connector,pandas, matplotlib)
 
-### 🔹 Banking - Vehicle Loan & Risk Analysis
+🔹 **[Banking - Vehicle Loan & Risk Analysis](https://github.com/SPusty/vehicleLoan)**
 
-In Progress:
+Analysed vehicle loan data to uncover default risk factors and developed am interactive report to support credit risk assessment processes.
 
-Working on a project analyzing vehicle loan data to uncover default risk factors and support credit risk assessment processes.
-
-Tools: Python, PowerBI
+Tools: Python(pandas, logging), PowerBI
 
 ---
 
