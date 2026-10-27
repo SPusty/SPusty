@@ -115,7 +115,7 @@ Analysed employee data for a small business to uncover salary patterns, evaluate
 
 Tools: Python(mysql.connector,pandas, matplotlib)
 
-🔹 **[Banking - Vehicle Loan & Risk Analysis](https://github.com/SPusty/vehicleLoan)**
+🔹 **[Ecommerce Sale Data Analysis](https://github.com/SPusty/Ecomm_Analysis)**
 
 Analysed vehicle loan data to uncover default risk factors and developed am interactive report to support credit risk assessment processes.
 
