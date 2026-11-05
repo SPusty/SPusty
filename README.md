@@ -97,23 +97,29 @@ TCS, UK | Oct 2022 – Oct 2026
 
 ## ⭐ Featured Projects
 
-🔹 **[Credit Scoring & Risk Analysis](https://github.com/SPusty/CSRA)**
-
-Delivered a data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores. 
-
-Tools: Python, SQL, PowerBI
-
 🔹 **[Skill Demand Data Analysis](https://github.com/SPusty/skillDemandAnalysis)**
 
 Developed an interactive business intelligence dashboard focused on skill demand trends, salary bench marking, and prescriptive analytics for enterprise decision-making.
 
 Tools: Python, SQL, PowerBI
 
+🔹 **[TV show Analysis](https://github.com/SPusty/TVShowAnalysis)**
+
+Delivered an interactive dashboard to help users to explore TV show trends and compare different categories of shows.
+
+Tools: PowerBI, Postman
+
 🔹 **[HR_Insight](https://github.com/SPusty/HR_Insights)**
 
 Analysed employee data for a small business to uncover salary patterns, evaluate department-level metrics, and visualize key HR insights to support workforce decision-making.
 
 Tools: Python(mysql.connector,pandas, matplotlib)
+
+🔹 **[Credit Scoring & Risk Analysis](https://github.com/SPusty/CSRA)**
+
+Delivered a data-driven analysis focused on identifying fraud patterns and understanding the factors influencing credit scores. 
+
+Tools: Python, SQL, PowerBI
 
 🔹 **[Ecommerce Sale Data Analysis](https://github.com/SPusty/Ecomm_Analysis)**
 
