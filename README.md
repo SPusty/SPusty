@@ -125,7 +125,7 @@ Tools: Python, SQL, PowerBI
 
 Analysed vehicle loan data to uncover default risk factors and developed am interactive report to support credit risk assessment processes.
 
-Tools: Python(pandas, logging), PowerBI
+Tools: Python(pandas, logging), SQL
 
 ---
 
